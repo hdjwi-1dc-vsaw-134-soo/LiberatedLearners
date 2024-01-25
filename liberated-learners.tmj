@@ -160063,12 +160063,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.10.1",
+  "tiledversion": "1.10.2",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "liberated-learners-chunk-1-5d8fb039.png",
+      "image": "liberated-learners-chunk-1-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160584,7 +160584,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "liberated-learners-chunk-2-5d8fb039.png",
+      "image": "liberated-learners-chunk-2-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160599,7 +160599,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "liberated-learners-chunk-3-5d8fb039.png",
+      "image": "liberated-learners-chunk-3-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160614,7 +160614,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "liberated-learners-chunk-4-5d8fb039.png",
+      "image": "liberated-learners-chunk-4-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160629,7 +160629,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "liberated-learners-chunk-5-5d8fb039.png",
+      "image": "liberated-learners-chunk-5-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160644,7 +160644,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "liberated-learners-chunk-6-5d8fb039.png",
+      "image": "liberated-learners-chunk-6-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160659,7 +160659,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "liberated-learners-chunk-7-5d8fb039.png",
+      "image": "liberated-learners-chunk-7-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160674,7 +160674,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "liberated-learners-chunk-8-5d8fb039.png",
+      "image": "liberated-learners-chunk-8-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160689,7 +160689,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "liberated-learners-chunk-9-5d8fb039.png",
+      "image": "liberated-learners-chunk-9-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160704,7 +160704,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "liberated-learners-chunk-10-5d8fb039.png",
+      "image": "liberated-learners-chunk-10-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160719,7 +160719,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "liberated-learners-chunk-11-5d8fb039.png",
+      "image": "liberated-learners-chunk-11-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160734,7 +160734,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "liberated-learners-chunk-12-5d8fb039.png",
+      "image": "liberated-learners-chunk-12-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160749,7 +160749,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "liberated-learners-chunk-13-5d8fb039.png",
+      "image": "liberated-learners-chunk-13-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160764,7 +160764,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "liberated-learners-chunk-14-5d8fb039.png",
+      "image": "liberated-learners-chunk-14-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160779,7 +160779,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "liberated-learners-chunk-15-5d8fb039.png",
+      "image": "liberated-learners-chunk-15-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160794,7 +160794,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "liberated-learners-chunk-16-5d8fb039.png",
+      "image": "liberated-learners-chunk-16-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160809,7 +160809,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "liberated-learners-chunk-17-5d8fb039.png",
+      "image": "liberated-learners-chunk-17-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160824,7 +160824,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "liberated-learners-chunk-18-5d8fb039.png",
+      "image": "liberated-learners-chunk-18-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160839,7 +160839,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "liberated-learners-chunk-19-5d8fb039.png",
+      "image": "liberated-learners-chunk-19-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160854,7 +160854,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "liberated-learners-chunk-20-5d8fb039.png",
+      "image": "liberated-learners-chunk-20-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160869,7 +160869,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "liberated-learners-chunk-21-5d8fb039.png",
+      "image": "liberated-learners-chunk-21-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160884,7 +160884,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "liberated-learners-chunk-22-5d8fb039.png",
+      "image": "liberated-learners-chunk-22-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160899,7 +160899,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "liberated-learners-chunk-23-5d8fb039.png",
+      "image": "liberated-learners-chunk-23-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160914,7 +160914,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "liberated-learners-chunk-24-5d8fb039.png",
+      "image": "liberated-learners-chunk-24-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160929,7 +160929,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "liberated-learners-chunk-25-5d8fb039.png",
+      "image": "liberated-learners-chunk-25-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160944,7 +160944,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "liberated-learners-chunk-26-5d8fb039.png",
+      "image": "liberated-learners-chunk-26-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160959,7 +160959,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "liberated-learners-chunk-27-5d8fb039.png",
+      "image": "liberated-learners-chunk-27-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160974,7 +160974,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "liberated-learners-chunk-28-5d8fb039.png",
+      "image": "liberated-learners-chunk-28-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -160989,7 +160989,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "liberated-learners-chunk-29-5d8fb039.png",
+      "image": "liberated-learners-chunk-29-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161004,7 +161004,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "liberated-learners-chunk-30-5d8fb039.png",
+      "image": "liberated-learners-chunk-30-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161019,7 +161019,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "liberated-learners-chunk-31-5d8fb039.png",
+      "image": "liberated-learners-chunk-31-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161034,7 +161034,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "liberated-learners-chunk-32-5d8fb039.png",
+      "image": "liberated-learners-chunk-32-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161049,7 +161049,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "liberated-learners-chunk-33-5d8fb039.png",
+      "image": "liberated-learners-chunk-33-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161064,7 +161064,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "liberated-learners-chunk-34-5d8fb039.png",
+      "image": "liberated-learners-chunk-34-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161079,7 +161079,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "liberated-learners-chunk-35-5d8fb039.png",
+      "image": "liberated-learners-chunk-35-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161094,7 +161094,7 @@
     {
       "columns": 16,
       "firstgid": 8961,
-      "image": "liberated-learners-chunk-36-5d8fb039.png",
+      "image": "liberated-learners-chunk-36-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161109,7 +161109,7 @@
     {
       "columns": 16,
       "firstgid": 9217,
-      "image": "liberated-learners-chunk-37-5d8fb039.png",
+      "image": "liberated-learners-chunk-37-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161124,7 +161124,7 @@
     {
       "columns": 16,
       "firstgid": 9473,
-      "image": "liberated-learners-chunk-38-5d8fb039.png",
+      "image": "liberated-learners-chunk-38-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161139,7 +161139,7 @@
     {
       "columns": 16,
       "firstgid": 9729,
-      "image": "liberated-learners-chunk-39-5d8fb039.png",
+      "image": "liberated-learners-chunk-39-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161154,7 +161154,7 @@
     {
       "columns": 16,
       "firstgid": 9985,
-      "image": "liberated-learners-chunk-40-5d8fb039.png",
+      "image": "liberated-learners-chunk-40-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161169,7 +161169,7 @@
     {
       "columns": 16,
       "firstgid": 10241,
-      "image": "liberated-learners-chunk-41-5d8fb039.png",
+      "image": "liberated-learners-chunk-41-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161184,7 +161184,7 @@
     {
       "columns": 16,
       "firstgid": 10497,
-      "image": "liberated-learners-chunk-42-5d8fb039.png",
+      "image": "liberated-learners-chunk-42-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161199,7 +161199,7 @@
     {
       "columns": 16,
       "firstgid": 10753,
-      "image": "liberated-learners-chunk-43-5d8fb039.png",
+      "image": "liberated-learners-chunk-43-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161214,7 +161214,7 @@
     {
       "columns": 16,
       "firstgid": 11009,
-      "image": "liberated-learners-chunk-44-5d8fb039.png",
+      "image": "liberated-learners-chunk-44-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161229,7 +161229,7 @@
     {
       "columns": 16,
       "firstgid": 11265,
-      "image": "liberated-learners-chunk-45-5d8fb039.png",
+      "image": "liberated-learners-chunk-45-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161244,7 +161244,7 @@
     {
       "columns": 16,
       "firstgid": 11521,
-      "image": "liberated-learners-chunk-46-5d8fb039.png",
+      "image": "liberated-learners-chunk-46-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161259,7 +161259,7 @@
     {
       "columns": 16,
       "firstgid": 11777,
-      "image": "liberated-learners-chunk-47-5d8fb039.png",
+      "image": "liberated-learners-chunk-47-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161274,7 +161274,7 @@
     {
       "columns": 16,
       "firstgid": 12033,
-      "image": "liberated-learners-chunk-48-5d8fb039.png",
+      "image": "liberated-learners-chunk-48-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161289,7 +161289,7 @@
     {
       "columns": 16,
       "firstgid": 12289,
-      "image": "liberated-learners-chunk-49-5d8fb039.png",
+      "image": "liberated-learners-chunk-49-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161304,7 +161304,7 @@
     {
       "columns": 16,
       "firstgid": 12545,
-      "image": "liberated-learners-chunk-50-5d8fb039.png",
+      "image": "liberated-learners-chunk-50-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161319,7 +161319,7 @@
     {
       "columns": 16,
       "firstgid": 12801,
-      "image": "liberated-learners-chunk-51-5d8fb039.png",
+      "image": "liberated-learners-chunk-51-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161334,7 +161334,7 @@
     {
       "columns": 16,
       "firstgid": 13057,
-      "image": "liberated-learners-chunk-52-5d8fb039.png",
+      "image": "liberated-learners-chunk-52-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161349,7 +161349,7 @@
     {
       "columns": 16,
       "firstgid": 13313,
-      "image": "liberated-learners-chunk-53-5d8fb039.png",
+      "image": "liberated-learners-chunk-53-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161364,7 +161364,7 @@
     {
       "columns": 16,
       "firstgid": 13569,
-      "image": "liberated-learners-chunk-54-5d8fb039.png",
+      "image": "liberated-learners-chunk-54-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161379,7 +161379,7 @@
     {
       "columns": 16,
       "firstgid": 13825,
-      "image": "liberated-learners-chunk-55-5d8fb039.png",
+      "image": "liberated-learners-chunk-55-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161394,7 +161394,7 @@
     {
       "columns": 16,
       "firstgid": 14081,
-      "image": "liberated-learners-chunk-56-5d8fb039.png",
+      "image": "liberated-learners-chunk-56-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161409,7 +161409,7 @@
     {
       "columns": 16,
       "firstgid": 14337,
-      "image": "liberated-learners-chunk-57-5d8fb039.png",
+      "image": "liberated-learners-chunk-57-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161424,7 +161424,7 @@
     {
       "columns": 16,
       "firstgid": 14593,
-      "image": "liberated-learners-chunk-58-5d8fb039.png",
+      "image": "liberated-learners-chunk-58-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161439,7 +161439,7 @@
     {
       "columns": 16,
       "firstgid": 14849,
-      "image": "liberated-learners-chunk-59-5d8fb039.png",
+      "image": "liberated-learners-chunk-59-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161454,7 +161454,7 @@
     {
       "columns": 16,
       "firstgid": 15105,
-      "image": "liberated-learners-chunk-60-5d8fb039.png",
+      "image": "liberated-learners-chunk-60-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161469,7 +161469,7 @@
     {
       "columns": 16,
       "firstgid": 15361,
-      "image": "liberated-learners-chunk-61-5d8fb039.png",
+      "image": "liberated-learners-chunk-61-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161484,7 +161484,7 @@
     {
       "columns": 16,
       "firstgid": 15617,
-      "image": "liberated-learners-chunk-62-5d8fb039.png",
+      "image": "liberated-learners-chunk-62-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161499,7 +161499,7 @@
     {
       "columns": 16,
       "firstgid": 15873,
-      "image": "liberated-learners-chunk-63-5d8fb039.png",
+      "image": "liberated-learners-chunk-63-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161514,7 +161514,7 @@
     {
       "columns": 16,
       "firstgid": 16129,
-      "image": "liberated-learners-chunk-64-5d8fb039.png",
+      "image": "liberated-learners-chunk-64-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161529,7 +161529,7 @@
     {
       "columns": 16,
       "firstgid": 16385,
-      "image": "liberated-learners-chunk-65-5d8fb039.png",
+      "image": "liberated-learners-chunk-65-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161544,7 +161544,7 @@
     {
       "columns": 16,
       "firstgid": 16641,
-      "image": "liberated-learners-chunk-66-5d8fb039.png",
+      "image": "liberated-learners-chunk-66-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161559,7 +161559,7 @@
     {
       "columns": 16,
       "firstgid": 16897,
-      "image": "liberated-learners-chunk-67-5d8fb039.png",
+      "image": "liberated-learners-chunk-67-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161574,7 +161574,7 @@
     {
       "columns": 16,
       "firstgid": 17153,
-      "image": "liberated-learners-chunk-68-5d8fb039.png",
+      "image": "liberated-learners-chunk-68-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161589,7 +161589,7 @@
     {
       "columns": 16,
       "firstgid": 17409,
-      "image": "liberated-learners-chunk-69-5d8fb039.png",
+      "image": "liberated-learners-chunk-69-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161604,7 +161604,7 @@
     {
       "columns": 16,
       "firstgid": 17665,
-      "image": "liberated-learners-chunk-70-5d8fb039.png",
+      "image": "liberated-learners-chunk-70-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161619,7 +161619,7 @@
     {
       "columns": 16,
       "firstgid": 17921,
-      "image": "liberated-learners-chunk-71-5d8fb039.png",
+      "image": "liberated-learners-chunk-71-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161634,7 +161634,7 @@
     {
       "columns": 16,
       "firstgid": 18177,
-      "image": "liberated-learners-chunk-72-5d8fb039.png",
+      "image": "liberated-learners-chunk-72-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161649,7 +161649,7 @@
     {
       "columns": 16,
       "firstgid": 18433,
-      "image": "liberated-learners-chunk-73-5d8fb039.png",
+      "image": "liberated-learners-chunk-73-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161664,7 +161664,7 @@
     {
       "columns": 16,
       "firstgid": 18689,
-      "image": "liberated-learners-chunk-74-5d8fb039.png",
+      "image": "liberated-learners-chunk-74-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161679,7 +161679,7 @@
     {
       "columns": 16,
       "firstgid": 18945,
-      "image": "liberated-learners-chunk-75-5d8fb039.png",
+      "image": "liberated-learners-chunk-75-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161694,7 +161694,7 @@
     {
       "columns": 16,
       "firstgid": 19201,
-      "image": "liberated-learners-chunk-76-5d8fb039.png",
+      "image": "liberated-learners-chunk-76-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161709,7 +161709,7 @@
     {
       "columns": 16,
       "firstgid": 19457,
-      "image": "liberated-learners-chunk-77-5d8fb039.png",
+      "image": "liberated-learners-chunk-77-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161724,7 +161724,7 @@
     {
       "columns": 16,
       "firstgid": 19713,
-      "image": "liberated-learners-chunk-78-5d8fb039.png",
+      "image": "liberated-learners-chunk-78-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161739,7 +161739,7 @@
     {
       "columns": 16,
       "firstgid": 19969,
-      "image": "liberated-learners-chunk-79-5d8fb039.png",
+      "image": "liberated-learners-chunk-79-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161754,7 +161754,7 @@
     {
       "columns": 16,
       "firstgid": 20225,
-      "image": "liberated-learners-chunk-80-5d8fb039.png",
+      "image": "liberated-learners-chunk-80-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161769,7 +161769,7 @@
     {
       "columns": 16,
       "firstgid": 20481,
-      "image": "liberated-learners-chunk-81-5d8fb039.png",
+      "image": "liberated-learners-chunk-81-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161784,7 +161784,7 @@
     {
       "columns": 16,
       "firstgid": 20737,
-      "image": "liberated-learners-chunk-82-5d8fb039.png",
+      "image": "liberated-learners-chunk-82-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161799,7 +161799,7 @@
     {
       "columns": 16,
       "firstgid": 20993,
-      "image": "liberated-learners-chunk-83-5d8fb039.png",
+      "image": "liberated-learners-chunk-83-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161814,7 +161814,7 @@
     {
       "columns": 16,
       "firstgid": 21249,
-      "image": "liberated-learners-chunk-84-5d8fb039.png",
+      "image": "liberated-learners-chunk-84-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161829,7 +161829,7 @@
     {
       "columns": 16,
       "firstgid": 21505,
-      "image": "liberated-learners-chunk-85-5d8fb039.png",
+      "image": "liberated-learners-chunk-85-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161844,7 +161844,7 @@
     {
       "columns": 16,
       "firstgid": 21761,
-      "image": "liberated-learners-chunk-86-5d8fb039.png",
+      "image": "liberated-learners-chunk-86-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161859,7 +161859,7 @@
     {
       "columns": 16,
       "firstgid": 22017,
-      "image": "liberated-learners-chunk-87-5d8fb039.png",
+      "image": "liberated-learners-chunk-87-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161874,7 +161874,7 @@
     {
       "columns": 16,
       "firstgid": 22273,
-      "image": "liberated-learners-chunk-88-5d8fb039.png",
+      "image": "liberated-learners-chunk-88-6823f09f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -161889,7 +161889,7 @@
     {
       "columns": 10,
       "firstgid": 22529,
-      "image": "liberated-learners-chunk-89-5d8fb039.png",
+      "image": "liberated-learners-chunk-89-6823f09f.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -161913,7 +161913,12 @@
     {
       "name": "mapCopyright",
       "type": "string",
-      "value": "Liberated Learners is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+      "value": "Liberated Learners is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapImage",
+      "type": "string",
+      "value": "liberated-learners.png"
     },
     {
       "name": "mapName",
@@ -161923,7 +161928,7 @@
     {
       "name": "tilesetCopyright",
       "type": "string",
-      "value": "This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+      "value": "This map is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     }
   ],
   "renderorder": "right-down",

@@ -16393,12 +16393,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.10.1",
+  "tiledversion": "1.10.2",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "bar-chunk-1-442f81e3.png",
+      "image": "bar-chunk-1-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16674,7 +16674,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "bar-chunk-2-442f81e3.png",
+      "image": "bar-chunk-2-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16689,7 +16689,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "bar-chunk-3-442f81e3.png",
+      "image": "bar-chunk-3-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16704,7 +16704,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "bar-chunk-4-442f81e3.png",
+      "image": "bar-chunk-4-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16719,7 +16719,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "bar-chunk-5-442f81e3.png",
+      "image": "bar-chunk-5-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16734,7 +16734,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "bar-chunk-6-442f81e3.png",
+      "image": "bar-chunk-6-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16749,7 +16749,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "bar-chunk-7-442f81e3.png",
+      "image": "bar-chunk-7-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16764,7 +16764,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "bar-chunk-8-442f81e3.png",
+      "image": "bar-chunk-8-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16779,7 +16779,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "bar-chunk-9-442f81e3.png",
+      "image": "bar-chunk-9-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16794,7 +16794,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "bar-chunk-10-442f81e3.png",
+      "image": "bar-chunk-10-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16809,7 +16809,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "bar-chunk-11-442f81e3.png",
+      "image": "bar-chunk-11-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16824,7 +16824,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "bar-chunk-12-442f81e3.png",
+      "image": "bar-chunk-12-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16839,7 +16839,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "bar-chunk-13-442f81e3.png",
+      "image": "bar-chunk-13-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16854,7 +16854,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "bar-chunk-14-442f81e3.png",
+      "image": "bar-chunk-14-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16869,7 +16869,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "bar-chunk-15-442f81e3.png",
+      "image": "bar-chunk-15-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16884,7 +16884,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "bar-chunk-16-442f81e3.png",
+      "image": "bar-chunk-16-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16899,7 +16899,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "bar-chunk-17-442f81e3.png",
+      "image": "bar-chunk-17-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16914,7 +16914,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "bar-chunk-18-442f81e3.png",
+      "image": "bar-chunk-18-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16929,7 +16929,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "bar-chunk-19-442f81e3.png",
+      "image": "bar-chunk-19-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16944,7 +16944,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "bar-chunk-20-442f81e3.png",
+      "image": "bar-chunk-20-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16959,7 +16959,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "bar-chunk-21-442f81e3.png",
+      "image": "bar-chunk-21-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16974,7 +16974,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "bar-chunk-22-442f81e3.png",
+      "image": "bar-chunk-22-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16989,7 +16989,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "bar-chunk-23-442f81e3.png",
+      "image": "bar-chunk-23-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17004,7 +17004,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "bar-chunk-24-442f81e3.png",
+      "image": "bar-chunk-24-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17019,7 +17019,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "bar-chunk-25-442f81e3.png",
+      "image": "bar-chunk-25-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17034,7 +17034,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "bar-chunk-26-442f81e3.png",
+      "image": "bar-chunk-26-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17049,7 +17049,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "bar-chunk-27-442f81e3.png",
+      "image": "bar-chunk-27-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17064,7 +17064,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "bar-chunk-28-442f81e3.png",
+      "image": "bar-chunk-28-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17079,7 +17079,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "bar-chunk-29-442f81e3.png",
+      "image": "bar-chunk-29-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17094,7 +17094,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "bar-chunk-30-442f81e3.png",
+      "image": "bar-chunk-30-b4290404.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17109,7 +17109,7 @@
     {
       "columns": 14,
       "firstgid": 7681,
-      "image": "bar-chunk-31-442f81e3.png",
+      "image": "bar-chunk-31-b4290404.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -17134,6 +17134,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Liberated Learners is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+    },
+    {
+      "name": "mapImage",
+      "type": "string",
+      "value": "bar.png"
     },
     {
       "name": "mapName",
