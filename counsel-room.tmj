@@ -332,7 +332,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"consuel-room.png"
+         "value":"counsel-room.png"
         }, 
         {
          "name":"mapName",
