@@ -9731,7 +9731,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "liberated-learners.tmj#entry-from-retriet"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners#entry-from-retriet"
             }
           ],
           "rotation": 0,
@@ -12982,7 +12982,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "retriet-chunk-1-70c787c5.png",
+      "image": "retriet-chunk-1-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13298,7 +13298,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "retriet-chunk-2-70c787c5.png",
+      "image": "retriet-chunk-2-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13313,7 +13313,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "retriet-chunk-3-70c787c5.png",
+      "image": "retriet-chunk-3-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13328,7 +13328,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "retriet-chunk-4-70c787c5.png",
+      "image": "retriet-chunk-4-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13343,7 +13343,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "retriet-chunk-5-70c787c5.png",
+      "image": "retriet-chunk-5-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13358,7 +13358,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "retriet-chunk-6-70c787c5.png",
+      "image": "retriet-chunk-6-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13373,7 +13373,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "retriet-chunk-7-70c787c5.png",
+      "image": "retriet-chunk-7-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13388,7 +13388,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "retriet-chunk-8-70c787c5.png",
+      "image": "retriet-chunk-8-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13403,7 +13403,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "retriet-chunk-9-70c787c5.png",
+      "image": "retriet-chunk-9-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13418,7 +13418,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "retriet-chunk-10-70c787c5.png",
+      "image": "retriet-chunk-10-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13433,7 +13433,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "retriet-chunk-11-70c787c5.png",
+      "image": "retriet-chunk-11-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13448,7 +13448,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "retriet-chunk-12-70c787c5.png",
+      "image": "retriet-chunk-12-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13463,7 +13463,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "retriet-chunk-13-70c787c5.png",
+      "image": "retriet-chunk-13-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13478,7 +13478,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "retriet-chunk-14-70c787c5.png",
+      "image": "retriet-chunk-14-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13493,7 +13493,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "retriet-chunk-15-70c787c5.png",
+      "image": "retriet-chunk-15-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13508,7 +13508,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "retriet-chunk-16-70c787c5.png",
+      "image": "retriet-chunk-16-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13523,7 +13523,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "retriet-chunk-17-70c787c5.png",
+      "image": "retriet-chunk-17-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13538,7 +13538,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "retriet-chunk-18-70c787c5.png",
+      "image": "retriet-chunk-18-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13553,7 +13553,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "retriet-chunk-19-70c787c5.png",
+      "image": "retriet-chunk-19-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13568,7 +13568,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "retriet-chunk-20-70c787c5.png",
+      "image": "retriet-chunk-20-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13583,7 +13583,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "retriet-chunk-21-70c787c5.png",
+      "image": "retriet-chunk-21-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13598,7 +13598,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "retriet-chunk-22-70c787c5.png",
+      "image": "retriet-chunk-22-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13613,7 +13613,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "retriet-chunk-23-70c787c5.png",
+      "image": "retriet-chunk-23-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13628,7 +13628,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "retriet-chunk-24-70c787c5.png",
+      "image": "retriet-chunk-24-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13643,7 +13643,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "retriet-chunk-25-70c787c5.png",
+      "image": "retriet-chunk-25-619e2c88.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,

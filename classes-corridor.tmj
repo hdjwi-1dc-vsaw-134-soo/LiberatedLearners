@@ -17814,7 +17814,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "classroom-1.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners---classroom-1"
             }
           ],
           "rotation": 0,
@@ -17832,7 +17832,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "classroom-2.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners---classroom-2"
             }
           ],
           "rotation": 0,
@@ -17850,7 +17850,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "classroom-3.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners---classroom-3"
             }
           ],
           "rotation": 0,
@@ -17868,7 +17868,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "classroom-4.tmj"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners---classroom-4"
             }
           ],
           "rotation": 0,
@@ -17886,7 +17886,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "liberated-learners.tmj#entry-from-classes-corridor"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners#entry-from-classes-corridor"
             }
           ],
           "rotation": 0,
@@ -17904,7 +17904,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "liberated-learners.tmj#entry-from-classes-corridor"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners#entry-from-classes-corridor"
             }
           ],
           "rotation": 0,
@@ -17926,7 +17926,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "classes-corridor-chunk-1-8d5b40b9.png",
+      "image": "classes-corridor-chunk-1-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17962,7 +17962,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "classes-corridor-chunk-2-8d5b40b9.png",
+      "image": "classes-corridor-chunk-2-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17977,7 +17977,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "classes-corridor-chunk-3-8d5b40b9.png",
+      "image": "classes-corridor-chunk-3-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -17992,7 +17992,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "classes-corridor-chunk-4-8d5b40b9.png",
+      "image": "classes-corridor-chunk-4-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18007,7 +18007,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "classes-corridor-chunk-5-8d5b40b9.png",
+      "image": "classes-corridor-chunk-5-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18022,7 +18022,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "classes-corridor-chunk-6-8d5b40b9.png",
+      "image": "classes-corridor-chunk-6-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18037,7 +18037,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "classes-corridor-chunk-7-8d5b40b9.png",
+      "image": "classes-corridor-chunk-7-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18052,7 +18052,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "classes-corridor-chunk-8-8d5b40b9.png",
+      "image": "classes-corridor-chunk-8-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18067,7 +18067,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "classes-corridor-chunk-9-8d5b40b9.png",
+      "image": "classes-corridor-chunk-9-b72d7026.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18082,7 +18082,7 @@
     {
       "columns": 15,
       "firstgid": 2305,
-      "image": "classes-corridor-chunk-10-8d5b40b9.png",
+      "image": "classes-corridor-chunk-10-b72d7026.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

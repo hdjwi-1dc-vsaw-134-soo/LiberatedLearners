@@ -8021,7 +8021,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "classes-corridor.tmj#entry-from-classroom-4"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners---classes-corridor#entry-from-classroom-4"
             }
           ],
           "rotation": 0,
@@ -8039,7 +8039,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "classes-corridor.tmj#entry-from-classroom-4"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners---classes-corridor#entry-from-classroom-4"
             }
           ],
           "rotation": 0,
@@ -10720,7 +10720,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "classroom-4-chunk-1-a82711bd.png",
+      "image": "classroom-4-chunk-1-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10836,7 +10836,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "classroom-4-chunk-2-a82711bd.png",
+      "image": "classroom-4-chunk-2-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10851,7 +10851,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "classroom-4-chunk-3-a82711bd.png",
+      "image": "classroom-4-chunk-3-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10866,7 +10866,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "classroom-4-chunk-4-a82711bd.png",
+      "image": "classroom-4-chunk-4-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10881,7 +10881,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "classroom-4-chunk-5-a82711bd.png",
+      "image": "classroom-4-chunk-5-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10896,7 +10896,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "classroom-4-chunk-6-a82711bd.png",
+      "image": "classroom-4-chunk-6-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10911,7 +10911,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "classroom-4-chunk-7-a82711bd.png",
+      "image": "classroom-4-chunk-7-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10926,7 +10926,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "classroom-4-chunk-8-a82711bd.png",
+      "image": "classroom-4-chunk-8-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10941,7 +10941,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "classroom-4-chunk-9-a82711bd.png",
+      "image": "classroom-4-chunk-9-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10956,7 +10956,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "classroom-4-chunk-10-a82711bd.png",
+      "image": "classroom-4-chunk-10-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10971,7 +10971,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "classroom-4-chunk-11-a82711bd.png",
+      "image": "classroom-4-chunk-11-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10986,7 +10986,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "classroom-4-chunk-12-a82711bd.png",
+      "image": "classroom-4-chunk-12-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11001,7 +11001,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "classroom-4-chunk-13-a82711bd.png",
+      "image": "classroom-4-chunk-13-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11016,7 +11016,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "classroom-4-chunk-14-a82711bd.png",
+      "image": "classroom-4-chunk-14-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11031,7 +11031,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "classroom-4-chunk-15-a82711bd.png",
+      "image": "classroom-4-chunk-15-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11046,7 +11046,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "classroom-4-chunk-16-a82711bd.png",
+      "image": "classroom-4-chunk-16-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11061,7 +11061,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "classroom-4-chunk-17-a82711bd.png",
+      "image": "classroom-4-chunk-17-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11076,7 +11076,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "classroom-4-chunk-18-a82711bd.png",
+      "image": "classroom-4-chunk-18-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11091,7 +11091,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "classroom-4-chunk-19-a82711bd.png",
+      "image": "classroom-4-chunk-19-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11106,7 +11106,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "classroom-4-chunk-20-a82711bd.png",
+      "image": "classroom-4-chunk-20-a44008c7.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11121,7 +11121,7 @@
     {
       "columns": 14,
       "firstgid": 5121,
-      "image": "classroom-4-chunk-21-a82711bd.png",
+      "image": "classroom-4-chunk-21-a44008c7.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,

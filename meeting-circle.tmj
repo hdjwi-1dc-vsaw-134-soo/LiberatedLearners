@@ -10883,7 +10883,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "liberated-learners.tmj#entry-from-meeting-circle"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners#entry-from-meeting-circle"
             }
           ],
           "rotation": 0,
@@ -14518,7 +14518,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "meeting-circle-chunk-1-b4b8b411.png",
+      "image": "meeting-circle-chunk-1-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14594,7 +14594,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "meeting-circle-chunk-2-b4b8b411.png",
+      "image": "meeting-circle-chunk-2-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14609,7 +14609,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "meeting-circle-chunk-3-b4b8b411.png",
+      "image": "meeting-circle-chunk-3-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14624,7 +14624,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "meeting-circle-chunk-4-b4b8b411.png",
+      "image": "meeting-circle-chunk-4-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14639,7 +14639,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "meeting-circle-chunk-5-b4b8b411.png",
+      "image": "meeting-circle-chunk-5-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14654,7 +14654,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "meeting-circle-chunk-6-b4b8b411.png",
+      "image": "meeting-circle-chunk-6-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14669,7 +14669,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "meeting-circle-chunk-7-b4b8b411.png",
+      "image": "meeting-circle-chunk-7-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14684,7 +14684,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "meeting-circle-chunk-8-b4b8b411.png",
+      "image": "meeting-circle-chunk-8-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14699,7 +14699,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "meeting-circle-chunk-9-b4b8b411.png",
+      "image": "meeting-circle-chunk-9-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14714,7 +14714,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "meeting-circle-chunk-10-b4b8b411.png",
+      "image": "meeting-circle-chunk-10-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14729,7 +14729,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "meeting-circle-chunk-11-b4b8b411.png",
+      "image": "meeting-circle-chunk-11-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14744,7 +14744,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "meeting-circle-chunk-12-b4b8b411.png",
+      "image": "meeting-circle-chunk-12-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14759,7 +14759,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "meeting-circle-chunk-13-b4b8b411.png",
+      "image": "meeting-circle-chunk-13-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14774,7 +14774,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "meeting-circle-chunk-14-b4b8b411.png",
+      "image": "meeting-circle-chunk-14-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14789,7 +14789,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "meeting-circle-chunk-15-b4b8b411.png",
+      "image": "meeting-circle-chunk-15-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14804,7 +14804,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "meeting-circle-chunk-16-b4b8b411.png",
+      "image": "meeting-circle-chunk-16-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14819,7 +14819,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "meeting-circle-chunk-17-b4b8b411.png",
+      "image": "meeting-circle-chunk-17-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14834,7 +14834,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "meeting-circle-chunk-18-b4b8b411.png",
+      "image": "meeting-circle-chunk-18-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14849,7 +14849,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "meeting-circle-chunk-19-b4b8b411.png",
+      "image": "meeting-circle-chunk-19-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14864,7 +14864,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "meeting-circle-chunk-20-b4b8b411.png",
+      "image": "meeting-circle-chunk-20-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14879,7 +14879,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "meeting-circle-chunk-21-b4b8b411.png",
+      "image": "meeting-circle-chunk-21-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14894,7 +14894,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "meeting-circle-chunk-22-b4b8b411.png",
+      "image": "meeting-circle-chunk-22-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14909,7 +14909,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "meeting-circle-chunk-23-b4b8b411.png",
+      "image": "meeting-circle-chunk-23-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14924,7 +14924,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "meeting-circle-chunk-24-b4b8b411.png",
+      "image": "meeting-circle-chunk-24-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14939,7 +14939,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "meeting-circle-chunk-25-b4b8b411.png",
+      "image": "meeting-circle-chunk-25-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14954,7 +14954,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "meeting-circle-chunk-26-b4b8b411.png",
+      "image": "meeting-circle-chunk-26-788ae354.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14969,7 +14969,7 @@
     {
       "columns": 15,
       "firstgid": 6657,
-      "image": "meeting-circle-chunk-27-b4b8b411.png",
+      "image": "meeting-circle-chunk-27-788ae354.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,

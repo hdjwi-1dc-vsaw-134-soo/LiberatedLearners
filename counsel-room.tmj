@@ -13920,7 +13920,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "liberated-learners.tmj#entry-from-counsel-room"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners#entry-from-counsel-room"
             }
           ],
           "rotation": 0,
@@ -18575,7 +18575,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "counsel-room-chunk-1-1b0c5c96.png",
+      "image": "counsel-room-chunk-1-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18651,7 +18651,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "counsel-room-chunk-2-1b0c5c96.png",
+      "image": "counsel-room-chunk-2-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18666,7 +18666,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "counsel-room-chunk-3-1b0c5c96.png",
+      "image": "counsel-room-chunk-3-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18681,7 +18681,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "counsel-room-chunk-4-1b0c5c96.png",
+      "image": "counsel-room-chunk-4-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18696,7 +18696,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "counsel-room-chunk-5-1b0c5c96.png",
+      "image": "counsel-room-chunk-5-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18711,7 +18711,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "counsel-room-chunk-6-1b0c5c96.png",
+      "image": "counsel-room-chunk-6-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18726,7 +18726,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "counsel-room-chunk-7-1b0c5c96.png",
+      "image": "counsel-room-chunk-7-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18741,7 +18741,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "counsel-room-chunk-8-1b0c5c96.png",
+      "image": "counsel-room-chunk-8-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18756,7 +18756,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "counsel-room-chunk-9-1b0c5c96.png",
+      "image": "counsel-room-chunk-9-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18771,7 +18771,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "counsel-room-chunk-10-1b0c5c96.png",
+      "image": "counsel-room-chunk-10-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18786,7 +18786,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "counsel-room-chunk-11-1b0c5c96.png",
+      "image": "counsel-room-chunk-11-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18801,7 +18801,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "counsel-room-chunk-12-1b0c5c96.png",
+      "image": "counsel-room-chunk-12-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18816,7 +18816,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "counsel-room-chunk-13-1b0c5c96.png",
+      "image": "counsel-room-chunk-13-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18831,7 +18831,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "counsel-room-chunk-14-1b0c5c96.png",
+      "image": "counsel-room-chunk-14-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18846,7 +18846,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "counsel-room-chunk-15-1b0c5c96.png",
+      "image": "counsel-room-chunk-15-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18861,7 +18861,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "counsel-room-chunk-16-1b0c5c96.png",
+      "image": "counsel-room-chunk-16-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18876,7 +18876,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "counsel-room-chunk-17-1b0c5c96.png",
+      "image": "counsel-room-chunk-17-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18891,7 +18891,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "counsel-room-chunk-18-1b0c5c96.png",
+      "image": "counsel-room-chunk-18-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18906,7 +18906,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "counsel-room-chunk-19-1b0c5c96.png",
+      "image": "counsel-room-chunk-19-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18921,7 +18921,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "counsel-room-chunk-20-1b0c5c96.png",
+      "image": "counsel-room-chunk-20-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18936,7 +18936,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "counsel-room-chunk-21-1b0c5c96.png",
+      "image": "counsel-room-chunk-21-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18951,7 +18951,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "counsel-room-chunk-22-1b0c5c96.png",
+      "image": "counsel-room-chunk-22-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18966,7 +18966,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "counsel-room-chunk-23-1b0c5c96.png",
+      "image": "counsel-room-chunk-23-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18981,7 +18981,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "counsel-room-chunk-24-1b0c5c96.png",
+      "image": "counsel-room-chunk-24-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18996,7 +18996,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "counsel-room-chunk-25-1b0c5c96.png",
+      "image": "counsel-room-chunk-25-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19011,7 +19011,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "counsel-room-chunk-26-1b0c5c96.png",
+      "image": "counsel-room-chunk-26-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19026,7 +19026,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "counsel-room-chunk-27-1b0c5c96.png",
+      "image": "counsel-room-chunk-27-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19041,7 +19041,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "counsel-room-chunk-28-1b0c5c96.png",
+      "image": "counsel-room-chunk-28-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19056,7 +19056,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "counsel-room-chunk-29-1b0c5c96.png",
+      "image": "counsel-room-chunk-29-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19071,7 +19071,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "counsel-room-chunk-30-1b0c5c96.png",
+      "image": "counsel-room-chunk-30-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19086,7 +19086,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "counsel-room-chunk-31-1b0c5c96.png",
+      "image": "counsel-room-chunk-31-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19101,7 +19101,7 @@
     {
       "columns": 16,
       "firstgid": 7937,
-      "image": "counsel-room-chunk-32-1b0c5c96.png",
+      "image": "counsel-room-chunk-32-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19116,7 +19116,7 @@
     {
       "columns": 16,
       "firstgid": 8193,
-      "image": "counsel-room-chunk-33-1b0c5c96.png",
+      "image": "counsel-room-chunk-33-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19131,7 +19131,7 @@
     {
       "columns": 16,
       "firstgid": 8449,
-      "image": "counsel-room-chunk-34-1b0c5c96.png",
+      "image": "counsel-room-chunk-34-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19146,7 +19146,7 @@
     {
       "columns": 16,
       "firstgid": 8705,
-      "image": "counsel-room-chunk-35-1b0c5c96.png",
+      "image": "counsel-room-chunk-35-1657dc3f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19161,7 +19161,7 @@
     {
       "columns": 13,
       "firstgid": 8961,
-      "image": "counsel-room-chunk-36-1b0c5c96.png",
+      "image": "counsel-room-chunk-36-1657dc3f.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,

@@ -12167,7 +12167,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "liberated-learners.tmj#entry-from-office"
+              "value": "https://play.workadventu.re/@/workspacesky/liberated-learners/liberated-learners#entry-from-office"
             }
           ],
           "rotation": 0,
@@ -16230,7 +16230,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "office-chunk-1-cd9b1ade.png",
+      "image": "office-chunk-1-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16546,7 +16546,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "office-chunk-2-cd9b1ade.png",
+      "image": "office-chunk-2-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16561,7 +16561,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "office-chunk-3-cd9b1ade.png",
+      "image": "office-chunk-3-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16576,7 +16576,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "office-chunk-4-cd9b1ade.png",
+      "image": "office-chunk-4-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16591,7 +16591,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "office-chunk-5-cd9b1ade.png",
+      "image": "office-chunk-5-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16606,7 +16606,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "office-chunk-6-cd9b1ade.png",
+      "image": "office-chunk-6-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16621,7 +16621,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "office-chunk-7-cd9b1ade.png",
+      "image": "office-chunk-7-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16636,7 +16636,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "office-chunk-8-cd9b1ade.png",
+      "image": "office-chunk-8-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16651,7 +16651,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "office-chunk-9-cd9b1ade.png",
+      "image": "office-chunk-9-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16666,7 +16666,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "office-chunk-10-cd9b1ade.png",
+      "image": "office-chunk-10-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16681,7 +16681,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "office-chunk-11-cd9b1ade.png",
+      "image": "office-chunk-11-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16696,7 +16696,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "office-chunk-12-cd9b1ade.png",
+      "image": "office-chunk-12-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16711,7 +16711,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "office-chunk-13-cd9b1ade.png",
+      "image": "office-chunk-13-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16726,7 +16726,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "office-chunk-14-cd9b1ade.png",
+      "image": "office-chunk-14-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16741,7 +16741,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "office-chunk-15-cd9b1ade.png",
+      "image": "office-chunk-15-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16756,7 +16756,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "office-chunk-16-cd9b1ade.png",
+      "image": "office-chunk-16-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16771,7 +16771,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "office-chunk-17-cd9b1ade.png",
+      "image": "office-chunk-17-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16786,7 +16786,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "office-chunk-18-cd9b1ade.png",
+      "image": "office-chunk-18-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16801,7 +16801,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "office-chunk-19-cd9b1ade.png",
+      "image": "office-chunk-19-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16816,7 +16816,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "office-chunk-20-cd9b1ade.png",
+      "image": "office-chunk-20-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16831,7 +16831,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "office-chunk-21-cd9b1ade.png",
+      "image": "office-chunk-21-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16846,7 +16846,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "office-chunk-22-cd9b1ade.png",
+      "image": "office-chunk-22-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16861,7 +16861,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "office-chunk-23-cd9b1ade.png",
+      "image": "office-chunk-23-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16876,7 +16876,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "office-chunk-24-cd9b1ade.png",
+      "image": "office-chunk-24-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16891,7 +16891,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "office-chunk-25-cd9b1ade.png",
+      "image": "office-chunk-25-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16906,7 +16906,7 @@
     {
       "columns": 16,
       "firstgid": 6401,
-      "image": "office-chunk-26-cd9b1ade.png",
+      "image": "office-chunk-26-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16921,7 +16921,7 @@
     {
       "columns": 16,
       "firstgid": 6657,
-      "image": "office-chunk-27-cd9b1ade.png",
+      "image": "office-chunk-27-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16936,7 +16936,7 @@
     {
       "columns": 16,
       "firstgid": 6913,
-      "image": "office-chunk-28-cd9b1ade.png",
+      "image": "office-chunk-28-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16951,7 +16951,7 @@
     {
       "columns": 16,
       "firstgid": 7169,
-      "image": "office-chunk-29-cd9b1ade.png",
+      "image": "office-chunk-29-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16966,7 +16966,7 @@
     {
       "columns": 16,
       "firstgid": 7425,
-      "image": "office-chunk-30-cd9b1ade.png",
+      "image": "office-chunk-30-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16981,7 +16981,7 @@
     {
       "columns": 16,
       "firstgid": 7681,
-      "image": "office-chunk-31-cd9b1ade.png",
+      "image": "office-chunk-31-ec87678f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16996,7 +16996,7 @@
     {
       "columns": 8,
       "firstgid": 7937,
-      "image": "office-chunk-32-cd9b1ade.png",
+      "image": "office-chunk-32-ec87678f.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
