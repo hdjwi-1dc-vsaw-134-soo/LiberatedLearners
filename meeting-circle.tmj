@@ -220,7 +220,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"liberated-learners.tmj#entry-from-meeting-circle"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners#entry-from-meeting-circle"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -399,7 +399,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"classroom-1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners---classroom-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -416,7 +416,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"classroom-2.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners---classroom-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -433,7 +433,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"classroom-3.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners---classroom-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -450,7 +450,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"classroom-4.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners---classroom-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -467,7 +467,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"liberated-learners.tmj#entry-from-classes-corridor"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners#entry-from-classes-corridor"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -484,7 +484,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"liberated-learners.tmj#entry-from-classes-corridor"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/liberated-learners\/liberated-learners#entry-from-classes-corridor"
                         }],
                  "rotation":0,
                  "type":"area",
