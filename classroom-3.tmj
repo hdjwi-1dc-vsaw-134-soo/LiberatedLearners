@@ -304,7 +304,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/classroom-3.png"
+         "value":"classroom-3.png"
         }, 
         {
          "name":"mapName",

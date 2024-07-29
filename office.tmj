@@ -331,7 +331,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/office.png"
+         "value":"office.png"
         }, 
         {
          "name":"mapName",

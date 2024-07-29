@@ -275,7 +275,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/panel-stage-2.png"
+         "value":"panel-stage-2.png"
         }, 
         {
          "name":"mapName",

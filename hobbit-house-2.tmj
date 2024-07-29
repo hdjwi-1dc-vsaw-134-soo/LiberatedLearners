@@ -266,7 +266,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/hobbit-house-2.png"
+         "value":"hobbit-house-2.png"
         }, 
         {
          "name":"mapName",

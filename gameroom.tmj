@@ -362,7 +362,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/gameroom.png"
+         "value":"gameroom.png"
         }, 
         {
          "name":"mapName",

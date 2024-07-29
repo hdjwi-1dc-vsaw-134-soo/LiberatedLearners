@@ -516,7 +516,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/classes-corridor.png"
+         "value":"classes-corridor.png"
         }, 
         {
          "name":"mapName",

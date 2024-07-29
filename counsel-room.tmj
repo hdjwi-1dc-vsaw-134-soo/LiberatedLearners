@@ -337,7 +337,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/counsel-room.png"
+         "value":"counsel-room.png"
         }, 
         {
          "name":"mapName",

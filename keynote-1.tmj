@@ -271,7 +271,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/keynote-1.png"
+         "value":"keynote-1.png"
         }, 
         {
          "name":"mapName",

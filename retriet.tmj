@@ -311,7 +311,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/retriet.png"
+         "value":"retriet.png"
         }, 
         {
          "name":"mapName",
