@@ -339,7 +339,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"preview\/bar.png"
+         "value":"\/preview\/bar.png"
         }, 
         {
          "name":"mapName",
