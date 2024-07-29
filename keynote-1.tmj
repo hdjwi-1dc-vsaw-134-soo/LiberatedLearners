@@ -9086,7 +9086,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "keynote-1-chunk-1-f7cb8954.png",
+      "image": "keynote-1-chunk-1-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9162,7 +9162,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "keynote-1-chunk-2-f7cb8954.png",
+      "image": "keynote-1-chunk-2-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9177,7 +9177,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "keynote-1-chunk-3-f7cb8954.png",
+      "image": "keynote-1-chunk-3-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9192,7 +9192,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "keynote-1-chunk-4-f7cb8954.png",
+      "image": "keynote-1-chunk-4-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9207,7 +9207,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "keynote-1-chunk-5-f7cb8954.png",
+      "image": "keynote-1-chunk-5-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9222,7 +9222,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "keynote-1-chunk-6-f7cb8954.png",
+      "image": "keynote-1-chunk-6-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9237,7 +9237,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "keynote-1-chunk-7-f7cb8954.png",
+      "image": "keynote-1-chunk-7-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9252,7 +9252,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "keynote-1-chunk-8-f7cb8954.png",
+      "image": "keynote-1-chunk-8-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9267,7 +9267,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "keynote-1-chunk-9-f7cb8954.png",
+      "image": "keynote-1-chunk-9-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9282,7 +9282,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "keynote-1-chunk-10-f7cb8954.png",
+      "image": "keynote-1-chunk-10-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9297,7 +9297,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "keynote-1-chunk-11-f7cb8954.png",
+      "image": "keynote-1-chunk-11-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9312,7 +9312,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "keynote-1-chunk-12-f7cb8954.png",
+      "image": "keynote-1-chunk-12-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9327,7 +9327,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "keynote-1-chunk-13-f7cb8954.png",
+      "image": "keynote-1-chunk-13-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9342,7 +9342,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "keynote-1-chunk-14-f7cb8954.png",
+      "image": "keynote-1-chunk-14-02d89396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9357,7 +9357,7 @@
     {
       "columns": 12,
       "firstgid": 3585,
-      "image": "keynote-1-chunk-15-f7cb8954.png",
+      "image": "keynote-1-chunk-15-02d89396.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -9391,7 +9391,7 @@
     {
       "name": "mapImage",
       "type": "string",
-      "value": "preview/keynote-1.png"
+      "value": "keynote-1.png"
     },
     {
       "name": "mapName",
