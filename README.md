@@ -1,55 +1,82 @@
-# WorkAdventure Map Starter Kit
+# 100 Roads Design
 
-![map](./map.png)
+![100 Roads Design logo](readme/100roadsdesign-logo.svg)
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+100 Roads has been designing and innovating in the education space since 2016. Our founder, Catherine Fraise, first designed a physical campus at Workspace Education in Bethel CT.
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+When lockdowns raised new problems, Catherine moved into developing online learning environments.
 
-## Structure
-* *public*: Static files like PDFs or audio files
-* *src*: Scripts files
-* *tilesets*: All tilesets
-* *map.tmj*: Map file
-* *map.png*: The map thumbnail displayed on the in-game map information
+100 Roads Design is located in McLeod, Montana and our virtual campuses are created by a global team of digital architects, creatives, community builders and educators.
 
-If you want to use more than one map file, just add the new map file on root or in a folder.
+Learn more about us at https://100roadsdesign.com. 
 
-we recommend using 500x500 images for the map thumbnails.
+## About the map
 
-If you are going to create custom websites to embed in the map, please reference the HTML files in the `input` option in *vite.config.js*.
+There are 16 virtual campuses in this repository.
 
-## Requirements
+![map](readme/liberated-learners-readme.png)
 
-Node.js version >=17
+Map name: Liberated Learners.
 
-## Installation
+![map](readme/bar-readme.png)
 
-With npm installed (comes with [node](https://nodejs.org/en/)), run the following commands into a terminal in the root directory of this project:
+Map name: Bar.
 
-```shell
-npm install
-npm run dev
-```
+![map](readme/classes-corridor-readme.png)
 
-## Test production map
+Map name: Classes Corridor.
 
-You can test the optimized map as it will be in production:
-```sh
-npm run build
-npm run prod
-```
+![map](readme/classroom-1-readme.png)
 
-## Licenses
+Map name: Classroom 1.
 
-This project contains multiple licenses as follows:
+![map](readme/classroom-2-readme.png)
 
-* [Code license](./LICENSE.code) *(all files except those for other licenses)*
-* [Map license](./LICENSE.map) *(`map.tmj` and the map visual as well)*
-* [Assets license](./LICENSE.assets) *(the files inside the `src/assets/` folder)*
+Map name: Classroom 2.
 
-### About third party assets
+![map](readme/classroom-3-readme.png)
 
-If you add third party assets in your map, do not forget to:
-1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.tmj` file
-2. Add the license text in LICENSE.assets
+Map name: Classroom 3.
+
+![map](readme/classroom-4-readme.png)
+
+Map name: Classroom 4.
+
+![map](readme/consuel-room-readme.png)
+
+Map name: Consuel Room.
+
+![map](readme/game-room-readme.png)
+
+Map name: Game Room.
+
+![map](readme/hobbit-house-readme.png)
+
+Map name: Hobbit House.
+
+![map](readme/keynote-1-readme.png)
+
+Map name: Keynote 1.
+
+![map](readme/keynote-2-readme.png)
+
+Map name: Keynote 2.
+
+![map](readme/meeting-circle-readme.png)
+
+Map name: Meeting Circle.
+
+![map](readme/office-readme.png)
+
+Map name: Office.
+
+![map](readme/panel-stage-readme.png)
+
+Map name: Panel Stage.
+
+![map](readme/retriet-readme.png)
+
+Map name: Retriet.
+## Copyright
+
+This map is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC.
